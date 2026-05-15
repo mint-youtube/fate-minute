@@ -4,6 +4,7 @@ export const CHANNEL = {
   emoji: "⏱️",
   category: "범죄",
   tagline: "한순간이 인생을 갈라놓는다",
+  youtubeUrl: "https://youtube.com/channel/UCgitzzFes6PU7rku-25We8g",
   layoutId: "podcast-wave",
   isLight: false,
   tokens: {
