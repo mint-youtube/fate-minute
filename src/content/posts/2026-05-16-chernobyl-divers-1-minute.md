@@ -5,7 +5,7 @@ pubDate: 2026-05-17T09:00:00+09:00
 author: ""
 category: ""
 tags: ["체르노빌", "체르노빌 잠수부", "알렉세이 아나넨코", "체르노빌 영웅", "1986 원자력 사고", "코리움", "체르노빌 2차 폭발", "발레리 베스팔로프", "보리스 바라노프", "운명의 1분"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=-RkdOW0LiUA"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-05-16-chernobyl-divers-1-minute/scene-2_img_2.png"
 draft: false
 ---

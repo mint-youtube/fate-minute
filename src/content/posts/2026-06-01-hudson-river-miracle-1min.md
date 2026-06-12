@@ -5,7 +5,7 @@ pubDate: 2026-06-01T22:17:00+09:00
 author: ""
 category: ""
 tags: ["허드슨강의 기적", "설렌버거", "비상 착수", "항공 사고 생존", "위기 대응", "결정적 순간"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=EW-BGjmNgEE"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-06-01-hudson-river-miracle-1min/scene-2_img_2.png"
 draft: false
 ---

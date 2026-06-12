@@ -5,7 +5,7 @@ pubDate: 2026-05-18T17:29:00+09:00
 author: ""
 category: ""
 tags: ["콩코드", "에어프랑스", "4590편", "운명의1분", "항공사고"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Tunsw69wweY"
 heroImage: ""
 draft: false
 ---

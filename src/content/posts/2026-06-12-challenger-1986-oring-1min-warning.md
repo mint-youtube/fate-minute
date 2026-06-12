@@ -5,7 +5,7 @@ pubDate: 2026-06-12T09:00:00+09:00
 author: ""
 category: ""
 tags: ["챌린저호 폭발", "O링 결함", "NASA 사고", "로저 보졸리", "1986년 우주사고"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=rpZeNkNK3vM"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-06-12-challenger-1986-oring-1min-warning/scene-2_img_2.png"
 draft: false
 ---

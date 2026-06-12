@@ -5,7 +5,7 @@ pubDate: 2026-05-18T17:29:00+09:00
 author: ""
 category: ""
 tags: ["팬암103", "로커비폭발", "항공테러", "기적의생존", "실화다큐", "역사미스터리", "테러실화", "생존자증언"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=8vKqaB_oWj0"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-05-18-lockerbie-pan-am-103-missed-flight/scene-2_img_2.png"
 draft: false
 ---

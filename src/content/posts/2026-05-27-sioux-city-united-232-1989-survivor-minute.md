@@ -5,7 +5,7 @@ pubDate: 2026-05-27T19:21:00+09:00
 author: ""
 category: ""
 tags: ["유나이티드232", "1989", "수족시티", "알헤인즈", "데니피치", "DC-10", "차등추력", "NTSB", "항공안전", "운명의1분"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=3rkb9ELqM-E"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-05-27-sioux-city-united-232-1989-survivor-minute/scene-2_img_2.png"
 draft: false
 ---

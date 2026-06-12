@@ -5,7 +5,7 @@ pubDate: 2026-05-21T16:48:00+09:00
 author: ""
 category: ""
 tags: ["허드슨 강 기적", "US Airways 1549", "설리 기장", "Sullenberger", "NTSB", "비행기 사고", "긴급 착륙", "208초", "운명의 1분", "Cactus 1549"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=s7_qFgnHnkA"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-05-21-sully-hudson-208-seconds-2009/scene-2_img_2.png"
 draft: false
 ---

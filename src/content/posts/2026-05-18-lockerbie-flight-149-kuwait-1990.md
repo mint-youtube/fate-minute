@@ -5,7 +5,7 @@ pubDate: 2026-05-18T17:29:00+09:00
 author: ""
 category: ""
 tags: ["BA149", "쿠웨이트침공", "걸프전실화", "영국항공인질", "사담후세인", "이라크침공", "인질사건", "역사미스터리"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Loh0BLD_xX8"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-05-18-lockerbie-flight-149-kuwait-1990/scene-2_img_2.png"
 draft: false
 ---

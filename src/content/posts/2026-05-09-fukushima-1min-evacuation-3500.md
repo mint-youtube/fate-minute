@@ -5,7 +5,7 @@ pubDate: 2026-05-10T09:00:00+09:00
 author: ""
 category: ""
 tags: ["엔도 미키", "동일본 대지진", "미나미산리쿠초 쓰나미", "2011 일본 지진", "쓰나미 경보", "방재 공무원", "운명의 1분", "실화 감동"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=NChtDvxMBT8"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-05-09-fukushima-1min-evacuation-3500/intro_img_1.png"
 draft: false
 ---

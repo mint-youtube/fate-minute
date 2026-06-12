@@ -5,7 +5,7 @@ pubDate: 2026-05-30T09:00:00+09:00
 author: ""
 category: ""
 tags: ["알로하항공", "1988", "보잉737", "금속피로", "비상착륙", "하와이", "슐레만기장", "클라르벨랜싱", "NTSB", "운명의1분"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=K5zaVsJFD8Y"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-05-30-aloha-airlines-243-1988-roof-rip-minute/scene-2_img_2.png"
 draft: false
 ---
