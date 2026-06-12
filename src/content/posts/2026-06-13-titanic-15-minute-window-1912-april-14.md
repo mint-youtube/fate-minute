@@ -5,7 +5,7 @@ pubDate: 2026-06-13T09:00:00+09:00
 author: ""
 category: ""
 tags: ["타이타닉 침몰", "빙산 경고", "쌍안경 분실", "타이타닉 피할 수 있었나", "1912년 해양사고"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=3-YvlgJkqGQ"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-06-13-titanic-15-minute-window-1912-april-14/scene-2_img_2.png"
 draft: false
 ---
