@@ -5,7 +5,7 @@ pubDate: 2026-06-23T11:29:00+09:00
 author: ""
 category: ""
 tags: ["브리티시 항공 9편", "보잉 747 사고", "화산재 항공", "에릭 무디", "활공 착륙", "항공 생존 실화", "제트 엔진 정지", "항공 기적"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=DDPgGdYeoDQ"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-06-23-british-airways-9-1982-volcanic-ash/scene-2_img_2.png"
 draft: false
 ---
