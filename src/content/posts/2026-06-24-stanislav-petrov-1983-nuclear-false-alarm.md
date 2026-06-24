@@ -5,7 +5,7 @@ pubDate: 2026-06-24T10:55:00+09:00
 author: ""
 category: ""
 tags: ["스타니슬라프 페트로프", "핵전쟁 위기", "1983년 냉전", "조기경보 오경보", "핵미사일 오작동", "냉전 실화", "역사적 결정", "핵전쟁 막은 사람"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=xZ7-hFPpJQU"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-06-24-stanislav-petrov-1983-nuclear-false-alarm/scene-2_img_2.png"
 draft: false
 ---
