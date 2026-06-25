@@ -5,7 +5,7 @@ pubDate: 2026-06-25T16:10:00+09:00
 author: ""
 category: ""
 tags: ["아폴로 12호", "아폴로 12호 번개", "존 애런", "나사 달 착륙", "우주 역사", "아폴로 12호 정전", "1969년 아폴로", "우주선 사고", "달 착륙 실화"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=OZ-LLg7qufs"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-06-25-apollo-12-lightning-1969/scene-2_img_2.png"
 draft: false
 ---
