@@ -5,7 +5,7 @@ pubDate: 2026-06-26T21:57:00+09:00
 author: ""
 category: ""
 tags: ["엠파이어스테이트빌딩 충돌", "베티루올리버", "엘리베이터 추락 생존", "1945년 폭격기 사고", "기네스 생존 기록", "운명의 1분", "실화 다큐", "B-25 충돌"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=iBIyIxX2fn8"
 heroImage: ""
 draft: false
 ---
