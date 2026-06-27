@@ -5,7 +5,7 @@ pubDate: 2026-06-28T09:00:00+09:00
 author: ""
 category: ""
 tags: ["힌덴부르크 참사", "비행선 화재", "1937년 레이크허스트", "힌덴부르크 생존자", "항공 역사 실화", "운명의 1분", "체펠린 비행선", "37초 생사"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Tm5IvAFdYdM"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-06-28-lakehurst-hindenburg-1937-37-seconds/scene-2_img_2.png"
 draft: false
 ---
