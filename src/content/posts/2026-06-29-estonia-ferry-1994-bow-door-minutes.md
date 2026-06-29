@@ -5,7 +5,7 @@ pubDate: 2026-06-29T19:36:00+09:00
 author: ""
 category: ""
 tags: ["에스토니아호 침몰", "발트해 사고", "1994년 선박 침몰", "에스토니아호 생존자", "해상 재난 실화", "운명의 1분", "선수문 사고", "생사를 가른 선택"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=saw-UIcOWic"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-06-29-estonia-ferry-1994-bow-door-minutes/scene-2_img_2.png"
 draft: false
 ---
