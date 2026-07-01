@@ -5,7 +5,7 @@ pubDate: 2026-07-01T22:42:00+09:00
 author: ""
 category: ""
 tags: ["9월11일", "트윈타워", "911테러", "비상계단", "생존자", "세계무역센터", "릭레스콜라", "B계단", "운명의1분", "9/11 위원회"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=jxYu2pgLm18"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-07-01-twin-towers-2001-stairwell-survivors-minutes/scene-2_img_2.png"
 draft: false
 ---
