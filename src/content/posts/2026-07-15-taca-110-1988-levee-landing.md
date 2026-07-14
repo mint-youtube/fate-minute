@@ -5,7 +5,7 @@ pubDate: 2026-07-15T09:00:00+09:00
 author: ""
 category: ""
 tags: ["타카 항공 110편", "다르다노 기장", "여객기 불시착", "둑길 착륙", "보잉 737 엔진 정지", "항공 생존 실화", "비상 착륙", "45명 생존"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=qJj08DkloXk"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-07-15-taca-110-1988-levee-landing/scene-2_img_2.png"
 draft: false
 ---
