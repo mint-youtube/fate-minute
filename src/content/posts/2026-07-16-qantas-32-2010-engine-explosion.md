@@ -5,7 +5,7 @@ pubDate: 2026-07-16T09:00:00+09:00
 author: ""
 category: ""
 tags: ["콴타스 32편", "A380 엔진 폭발", "드 크레스피니", "우발적 엔진 파열", "항공 비상 착륙", "469명 생존", "항공 위기 대응", "롤스로이스 엔진"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=U_KtzBo9eBg"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-07-16-qantas-32-2010-engine-explosion/scene-2_img_2.png"
 draft: false
 ---
