@@ -5,7 +5,7 @@ pubDate: 2026-07-17T15:04:00+09:00
 author: ""
 category: ""
 tags: ["테네리페 참사", "보잉 747 충돌", "항공 역사상 최악의 사고", "로스로데오스", "항공 무전 오해", "항공 안전 규칙", "583명", "항공 사고 교훈"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=n7IJpThYYK8"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-07-17-tenerife-1977-runway-fog-minute/scene-2_img_2.png"
 draft: false
 ---
