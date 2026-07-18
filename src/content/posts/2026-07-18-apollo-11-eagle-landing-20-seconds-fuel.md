@@ -5,7 +5,7 @@ pubDate: 2026-07-18T17:18:00+09:00
 author: ""
 category: ""
 tags: ["아폴로 11호", "달 착륙", "닐 암스트롱", "1202 경보", "이글 착륙선", "우주 역사", "달 착륙 연료", "수동 착륙"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=JMkxHJrM5CQ"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-07-18-apollo-11-eagle-landing-20-seconds-fuel/scene-2_img_2.png"
 draft: false
 ---
