@@ -5,7 +5,7 @@ pubDate: 2026-07-19T15:27:00+09:00
 author: ""
 category: ""
 tags: ["칠레 광산 붕괴", "산호세 광산", "33명 광부", "페닉스 캡슐", "69일 생존", "루이스 우르수아", "광부 구조", "칠레 매몰 사고"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=qvSPQnG1XHA"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-07-19-chile-mine-33-rescue-2010/scene-2_img_2.png"
 draft: false
 ---
