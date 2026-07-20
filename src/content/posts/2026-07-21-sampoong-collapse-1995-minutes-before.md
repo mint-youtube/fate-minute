@@ -5,7 +5,7 @@ pubDate: 2026-07-21T09:00:00+09:00
 author: ""
 category: ""
 tags: ["삼풍백화점 붕괴", "1995년 참사", "건물 붕괴 원인", "재난 생존", "건물 안전 기준", "붕괴 경고 신호", "한국 현대사 사고", "재난 교훈"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=HRCcjy522YA"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-07-21-sampoong-collapse-1995-minutes-before/scene-2_img_2.png"
 draft: false
 ---
