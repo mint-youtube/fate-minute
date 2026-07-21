@@ -5,7 +5,7 @@ pubDate: 2026-07-22T09:00:00+09:00
 author: ""
 category: ""
 tags: ["태국 동굴 구조", "탐루앙 동굴", "유소년 축구팀", "동굴 잠수 구조", "2018년 구조 작전", "13명 생환", "국제 구조", "동굴 고립"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=tbfPk_fmdwE"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-07-22-thailand-cave-rescue-2018-minutes/scene-2_img_2.png"
 draft: false
 ---
