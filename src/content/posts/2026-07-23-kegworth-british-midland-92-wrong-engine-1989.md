@@ -5,7 +5,7 @@ pubDate: 2026-07-23T18:19:00+09:00
 author: ""
 category: ""
 tags: ["키그워스 항공사고", "브리티시 미들랜드 92편", "보잉 737-400", "엔진 오판", "항공 참사", "1989년 항공사고", "항공 안전 규정", "운명의 1분"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Bpozkdbs0xg"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-07-23-kegworth-british-midland-92-wrong-engine-1989/scene-2_img_2.png"
 draft: false
 ---
