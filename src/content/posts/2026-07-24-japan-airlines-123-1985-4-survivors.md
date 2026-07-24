@@ -5,7 +5,7 @@ pubDate: 2026-07-24T21:16:00+09:00
 author: ""
 category: ""
 tags: ["일본항공123편", "항공사고", "1985년 항공참사", "보잉747 사고", "생존자", "다카마가하라", "유압상실", "운명의1분", "항공역사", "오치아이 유미"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=s1ZhGFy9Uc0"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-07-24-japan-airlines-123-1985-4-survivors/scene-2_img_2.png"
 draft: false
 ---
