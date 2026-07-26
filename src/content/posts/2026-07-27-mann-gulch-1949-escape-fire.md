@@ -5,7 +5,7 @@ pubDate: 2026-07-27T09:00:00+09:00
 author: ""
 category: ""
 tags: ["만 걸치", "만 걸치 산불", "탈출 화재", "와그너 도지", "공수 소방대", "1949년 산불", "몬태나 산불", "운명의1분", "산불 생존", "스모크점퍼"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=q2B7ga_kCDo"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-07-27-mann-gulch-1949-escape-fire/scene-2_img_2.png"
 draft: false
 ---
