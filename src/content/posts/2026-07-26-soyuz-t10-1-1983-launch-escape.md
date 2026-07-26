@@ -5,7 +5,7 @@ pubDate: 2026-07-26T15:30:00+09:00
 author: ""
 category: ""
 tags: ["소유즈", "소유즈T101", "발사탈출시스템", "바이코누르", "우주비행사 생존", "티토프", "스트레칼로프", "운명의1분", "우주개발 역사", "발사 실패"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Rg3xtGtDmR4"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-07-26-soyuz-t10-1-1983-launch-escape/scene-2_img_2.png"
 draft: false
 ---
