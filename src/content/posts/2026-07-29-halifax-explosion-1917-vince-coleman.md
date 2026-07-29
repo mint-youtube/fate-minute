@@ -5,7 +5,7 @@ pubDate: 2026-07-29T16:35:00+09:00
 author: ""
 category: ""
 tags: ["핼리팩스 폭발", "빈스 콜먼", "1917년 핼리팩스", "몽블랑호", "전신 기사", "실화", "운명의 1분", "역사적 사건"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=6YB0xUtvNxI"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-07-29-halifax-explosion-1917-vince-coleman/scene-2_img_2.png"
 draft: false
 ---
