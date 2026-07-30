@@ -5,7 +5,7 @@ pubDate: 2026-07-30T16:22:00+09:00
 author: ""
 category: ""
 tags: ["파이퍼 알파", "파이퍼 알파 참사", "북해 석유 시추선", "해상 사고", "1988년", "생존자 증언", "운명의 1분", "산업 재해"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=ztTlHuCWSf0"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-07-30-piper-alpha-1988-men-who-jumped/scene-2_img_2.png"
 draft: false
 ---
