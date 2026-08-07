@@ -5,7 +5,7 @@ pubDate: 2026-08-07T14:57:00+09:00
 author: ""
 category: ""
 tags: ["몽펠레 화산", "생피에르", "뤼드제 실바리스", "화산 폭발", "마르티니크", "화산 재난", "생존자", "1902년", "운명의 1분", "실화"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=z2yoDrH3JZs"
 heroImage: "https://assets.dailynote.blog/fate-minute/2026-08-07-ludger-sylbaris-mount-pelee-1902-survivor/scene-2_img_2.png"
 draft: false
 ---
